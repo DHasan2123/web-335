@@ -1,2 +1,4 @@
-# web-335
-Introduction to NoSQL
+# WEB 335 Introduction to NoSQL
+## Contributors
+* Instructor: Richard Krasso
+* Student: Dua Hasan
